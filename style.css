@@ -1,0 +1,31 @@
+h1{
+    color: rgb(255, 255, 255);
+    background-color: #21022d;
+    
+}
+ul{
+    list-style-type: circle;
+
+}
+h6{
+    color: #21022d
+    
+}
+P{
+    font-size: 20px;
+    
+}
+body{
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-branco-abstrato_23-2148808256.jpg?w=2000);
+
+}
+.txt4:hover{
+    color: red;
+}
+
+.txt8:hover{
+    color: red;
+}
+.txt9:hover{
+    color: blue;
+}
